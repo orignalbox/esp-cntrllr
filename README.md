@@ -1,4 +1,5 @@
 # esp-cntrllr
+![](1.jpg)
 
 BLE gamepad using ESP32-S3. Maps 8 buttons to a standard HID gamepad — 4 for the d-pad (joystick axes) and 4 action buttons. Pairs with anything that accepts a gamepad over BT.
 
